@@ -1,4 +1,0 @@
-Notes:
-1. Subject IDs 339, 369 and 394 do not have stimulation electrode location data available.
-2. Electrodes are in chA-chB format (chA gets leading positive phase of the stimulation). This information is stored in the "channel" file for each stimulation run.
-3. In some cases, two distant sites were stimulated simultaneously as indicated by the electrode listed under the appropriate run IDs within the ieeg folders.
